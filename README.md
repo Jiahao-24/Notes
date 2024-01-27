@@ -1,1 +1,1 @@
-# Notes
+# Course Notes
